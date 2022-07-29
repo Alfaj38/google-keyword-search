@@ -1,0 +1,6 @@
+matched_domain
+askubuntu.com
+stackoverflow.com
+www.digitalocean.com
+stackoverflow.com
+www.digitalocean.com
